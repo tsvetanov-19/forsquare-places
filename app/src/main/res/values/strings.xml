@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Foursquare Places</string>
+
+    <string name="title_section1">My Location</string>
+    <string name="title_section2">Nearest places</string>
+    <string name="title_section3">Coffee Places</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="places_array">
+          <item>1</item>
+          <item>10</item>
+          <item>50</item>
+    </string-array>
+
+    <string-array name="acuracy_array">
+        <item>100</item>
+        <item>1000</item>
+        <item>10000</item>
+    </string-array>
+</resources>
